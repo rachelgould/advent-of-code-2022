@@ -7,3 +7,4 @@ Link: https://adventofcode.com/2022
 3. [Day Three](./3)
 4. [Day Four](./4)
 5. [Day Five](./5)
+6. [Day Six](./6)
